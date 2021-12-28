@@ -12,7 +12,7 @@
 - Поиск клиента
 
 
-Результат можно увидеть здесь: https://admiring-poitras-51db85.netlify.app/
+Результат можно увидеть здесь: https://nervous-lewin-cf4c40.netlify.app
 
 
 ## Основные особенности:
